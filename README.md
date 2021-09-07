@@ -1,4 +1,4 @@
-#    self
+#   bot self
 ```
 Allo Coyyy
 ```
@@ -29,8 +29,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/srart24/setan-bot
-cd setan-bot
+git clone https://github.com/PinoRecode/self
+cd self
 bash install.sh
 node index.js
 terus scan bro
@@ -62,7 +62,7 @@ untuk fiturnya liat aja sendiri lah nales ngetik gw
  sebenarnya gw juga bingung mo ngetik apaan wkwkwk
 
 ```
-### "SeTaN.BoT"
+### "BotSelf"
 ---------
 https://github.com/PinoRecode
 ---------
